@@ -192,12 +192,6 @@
     "tagIdOnClimb": ""
   },
   {
-    "name": "Boots",
-    "allyCode": "174695996",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
-  },
-  {
     "name": "Brewboo",
     "allyCode": "689997842",
     "tagIdOnDrop": "",
@@ -206,12 +200,6 @@
   {
     "name": "Brutes McNasty",
     "allyCode": "727716398",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
-  },
-  {
-    "name": "CokeCan",
-    "allyCode": "713461588",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
@@ -240,12 +228,6 @@
     "tagIdOnClimb": ""
   },
   {
-    "name": "Œ Corill",
-    "allyCode": "495992976",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
-  },
-  {
     "name": "Sarith Lekit",
     "allyCode": "427445852",
     "tagIdOnDrop": "",
@@ -260,12 +242,6 @@
   {
     "name": "The Machine",
     "allyCode": "126514376",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
-  },
-  {
-    "name": "Yoda50",
-    "allyCode": "834898932",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   }
