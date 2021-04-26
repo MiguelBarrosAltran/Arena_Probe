@@ -336,17 +336,17 @@
     "tagIdOnClimb": ""
   },
   {
-    "name": "DarthFrogus KotPP",
-    "allyCode": "322865369",
-    "userIcon": ":skull_crossbones:",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
-  },
-  {
     "name": "Dirty",
     "allyCode": "364346573",
     "userIcon": "",
     "tagIdOnDrop": "564889659688091648",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Do or Do Not",
+    "allyCode": "462775619",
+    "userIcon": "",
+    "tagIdOnDrop": "325120059469201409",
     "tagIdOnClimb": ""
   }
 ]
