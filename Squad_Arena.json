@@ -320,5 +320,33 @@
     "userIcon": "",
     "tagIdOnDrop": "541441587796901889",
     "tagIdOnClimb": ""
+  },
+  {
+    "name": "CokeCan",
+    "allyCode": "713461588",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Dakkin",
+    "allyCode": "245172782",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "DarthFrogus KotPP",
+    "allyCode": "322865369",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "Dirty",
+    "allyCode": "364346573",
+    "userIcon": "",
+    "tagIdOnDrop": "564889659688091648",
+    "tagIdOnClimb": ""
   }
 ]
