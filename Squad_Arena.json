@@ -418,5 +418,12 @@
     "userIcon": ":skull_crossbones:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
+  },
+  {
+    "name": "NightmareBG",
+    "allyCode": "663797931",
+    "userIcon": ":skull_crossbones:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
   }
 ]
