@@ -425,5 +425,12 @@
     "userIcon": ":skull_crossbones:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
+  },
+  {
+    "name": "Iklaadi San",
+    "allyCode": "315183811",
+    "userIcon": "",
+    "tagIdOnDrop": "598978253528760330",
+    "tagIdOnClimb": ""
   }
 ]
